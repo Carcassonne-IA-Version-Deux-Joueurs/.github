@@ -1,6 +1,6 @@
 # Carcasonne
 
-# Projet de recherche sur le projet Carcassonne
+# Projet de recherche sur le jeu Carcassonne
 
 Simulation d'un ensemble composantes connexes dynamique et application d'un algorithme minimax de profondeur 2 afin de maximiser le nombre de points lors de la fermeture ces différentes composantes.
 
