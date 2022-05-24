@@ -2,7 +2,7 @@
 
 # Projet de recherche sur le jeu Carcassonne
 
-Simulation d'un ensemble de composantes connexes qui s'étend de manière dynamique et application d'un algorithme minimax de profondeur 2 afin de maximiser le nombre de points lors de la fermeture ces différentes composantes choisi par le joueur.
+Simulation d'un ensemble de composantes connexes qui s'étend de manière dynamique et application d'un algorithme minimax de profondeur 2 afin de maximiser le nombre de points lors de la fermeture ces différentes composantes choisi par les agents.
 
 # Outils de développement
 
