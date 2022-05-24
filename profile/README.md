@@ -4,6 +4,10 @@
 
 Simulation d'un ensemble de composantes connexes qui s'étend de manière dynamique et application d'un algorithme minimax de profondeur 2 afin de maximiser le nombre de points lors de la fermeture ces différentes composantes choisi par les agents.
 
+# Téléchargement du Jeu
+
+https://dytq.itch.io/carcassonne
+
 # Outils de développement
 
 ## Mode Terminal 
