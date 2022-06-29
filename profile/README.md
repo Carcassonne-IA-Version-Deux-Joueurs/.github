@@ -59,3 +59,6 @@ ouvrir avec l'executable godot généreré lors de la compilation le dossier
 Dans le dossier carcassonne_dev on a :
 1. un sous dossier ```godot_carcassonne```
 2. un sous dossier ```carcassonne_graphic```
+
+# Screen Capture
+![Capture d’écran du 2022-05-22 23-33-26](https://user-images.githubusercontent.com/43381918/176489950-5a8225ea-6c1c-4ef3-8a53-d09d33c222e2.png)
